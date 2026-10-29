@@ -5,7 +5,7 @@
 <h1 align="center">Hedgin</h1>
 
 <p align="center">
-  Investment vaults on Solana where a program, not a person, holds the money.
+  Liquidity pools, managed for you.
 </p>
 
 <p align="center">
