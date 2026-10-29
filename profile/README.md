@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HedginVault/docs/main/logo.png" alt="Hedgin" width="96">
+  <img src="https://raw.githubusercontent.com/HedginVault/docs/main/logo.png" alt="Hedgin" width="320">
 </p>
-
-<h1 align="center">Hedgin</h1>
 
 <p align="center">
   Liquidity pools, managed for you.
